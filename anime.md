@@ -23,7 +23,7 @@
 - [RELESE THE SPYCE](https://ja.wikipedia.org/wiki/RELEASE_THE_SPYCE)
 - [がっこうぐらし](https://ja.wikipedia.org/wiki/%E3%81%8C%E3%81%A3%E3%81%93%E3%81%86%E3%81%90%E3%82%89%E3%81%97!)
 - [サクラクエスト](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%AF%E3%83%A9%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88)
-- [ラブライブ!サンシャイン!!](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%96%E3%83%A9%E3%82%A4%E3%83%96!_(%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1))
+- <a href="https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%96%E3%83%A9%E3%82%A4%E3%83%96!_(%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1)">ラブライブ!サンシャイン!!</a>
 <!-- ここまでで一つ -->
 - [やがて君になる](https://ja.wikipedia.org/wiki/%E3%82%84%E3%81%8C%E3%81%A6%E5%90%9B%E3%81%AB%E3%81%AA%E3%82%8B)
 - [ラブライブ!](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%96%E3%83%A9%E3%82%A4%E3%83%96!_(%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1)
