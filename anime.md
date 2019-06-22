@@ -1,20 +1,18 @@
-# アニメ一覧
-- [hackmd](https://hackmd.io/uIA9M91bSESxrmphcnYe0Q?view)
-## 2018-04 ~
+# kimが見てるアニメ一覧
 - [ご注文はうさぎですか？](https://ja.wikipedia.org/wiki/%E3%81%94%E6%B3%A8%E6%96%87%E3%81%AF%E3%81%86%E3%81%95%E3%81%8E%E3%81%A7%E3%81%99%E3%81%8B%3F)
- - [りゅうおうのおしごと](https://ja.wikipedia.org/wiki/%E3%82%8A%E3%82%85%E3%81%86%E3%81%8A%E3%81%86%E3%81%AE%E3%81%8A%E3%81%97%E3%81%94%E3%81%A8!)
+- [りゅうおうのおしごと](https://ja.wikipedia.org/wiki/%E3%82%8A%E3%82%85%E3%81%86%E3%81%8A%E3%81%86%E3%81%AE%E3%81%8A%E3%81%97%E3%81%94%E3%81%A8!)
 - [ガンゲイル・オンライン](https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%BC%E3%83%89%E3%82%A2%E3%83%BC%E3%83%88%E3%83%BB%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3_%E3%82%AA%E3%83%AB%E3%82%BF%E3%83%8A%E3%83%86%E3%82%A3%E3%83%96_%E3%82%AC%E3%83%B3%E3%82%B2%E3%82%A4%E3%83%AB%E3%83%BB%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3)
- - [NEWGAME!](https://ja.wikipedia.org/wiki/NEW_GAME!)
- - [こみっくがーるず](https://ja.wikipedia.org/wiki/%E3%81%93%E3%81%BF%E3%81%A3%E3%81%8F%E3%81%8C%E3%83%BC%E3%82%8B%E3%81%9A)
- - [ヲタクに恋は難しい](https://ja.wikipedia.org/wiki/%E3%83%B2%E3%82%BF%E3%82%AF%E3%81%AB%E6%81%8B%E3%81%AF%E9%9B%A3%E3%81%97%E3%81%84)
- - [ゆゆ式](https://ja.wikipedia.org/wiki/%E3%82%86%E3%82%86%E5%BC%8F)
- - [SHIROBAKO](https://ja.wikipedia.org/wiki/SHIROBAKO)
- - [小林さんちのメイドラゴン](https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9E%97%E3%81%95%E3%82%93%E3%81%A1%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3)
- - [ゆるキャン△](https://ja.wikipedia.org/wiki/%E3%82%86%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3%E2%96%B3)
- - [うらら迷路帖](https://ja.wikipedia.org/wiki/%E3%81%86%E3%82%89%E3%82%89%E8%BF%B7%E8%B7%AF%E5%B8%96)
- - [ガーリッシュ ナンバー](https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC)
- - [アホガール](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9B%E3%82%AC%E3%83%BC%E3%83%AB)
- - [あっちこっち](https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%A3%E3%81%A1%E3%81%93%E3%81%A3%E3%81%A1)
+- [NEWGAME!](https://ja.wikipedia.org/wiki/NEW_GAME!)
+- [こみっくがーるず](https://ja.wikipedia.org/wiki/%E3%81%93%E3%81%BF%E3%81%A3%E3%81%8F%E3%81%8C%E3%83%BC%E3%82%8B%E3%81%9A)
+- [ヲタクに恋は難しい](https://ja.wikipedia.org/wiki/%E3%83%B2%E3%82%BF%E3%82%AF%E3%81%AB%E6%81%8B%E3%81%AF%E9%9B%A3%E3%81%97%E3%81%84)
+- [ゆゆ式](https://ja.wikipedia.org/wiki/%E3%82%86%E3%82%86%E5%BC%8F)
+- [SHIROBAKO](https://ja.wikipedia.org/wiki/SHIROBAKO)
+- [小林さんちのメイドラゴン](https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9E%97%E3%81%95%E3%82%93%E3%81%A1%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3)
+- [ゆるキャン△](https://ja.wikipedia.org/wiki/%E3%82%86%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3%E2%96%B3)
+- [うらら迷路帖](https://ja.wikipedia.org/wiki/%E3%81%86%E3%82%89%E3%82%89%E8%BF%B7%E8%B7%AF%E5%B8%96)
+- [ガーリッシュ ナンバー](https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC)
+- [アホガール](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9B%E3%82%AC%E3%83%BC%E3%83%AB)
+- [あっちこっち](https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%A3%E3%81%A1%E3%81%93%E3%81%A3%E3%81%A1)
 <!-- ここまでで一つ -->
 - [電脳コイル](https://ja.wikipedia.org/wiki/%E9%9B%BB%E8%84%B3%E3%82%B3%E3%82%A4%E3%83%AB)
 - [うちのメイドがウザすぎる](https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%A1%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E3%81%8C%E3%82%A6%E3%82%B6%E3%81%99%E3%81%8E%E3%82%8B!)
@@ -49,7 +47,7 @@
 - 花咲くいろは
 
 ## 以前
-2015冬　
+2015冬
 暗殺教室（２クール）
 冴えない彼女のそだてかた
 銃皇無尽のファフニール
@@ -105,3 +103,6 @@
 |四月は君の嘘|1週目|代数1中間
 |ご注文はうさぎですか？|2週目|
 |ゆゆ式|2週目|
+
+
+- [hackmd](https://hackmd.io/uIA9M91bSESxrmphcnYe0Q?view)
