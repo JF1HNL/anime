@@ -1,11 +1,17 @@
+const pass_char = {
+  anime : "./anime.md",
+  before : "./before.md"
+}
+
 
 const app = new Vue({
   el:"#anime",
   data:{
-    mdtext : "# 初期値"
+    mdtext : "# 初期値",
+    mdlink : ""
   },
   created: function(){
-    this.get_md_text("./anime.md"); 
+    this.get_md_text(pass_char.anime); 
   },
   computed:{
     mdMakeup : function(){
@@ -19,7 +25,15 @@ const app = new Vue({
       xhr.addEventListener('load' , () => {
         this.mdtext = xhr.responseText
       })
+      this.mdlink = pass; 
       xhr.send();
+    },
+    chenge : function(){
+      if(this.mdlink === pass_char.anime){
+        this.get_md_text(pass_char.before); 
+      }else{
+        this.get_md_text(pass_char.anime);
+      }
     }
   }
 })
