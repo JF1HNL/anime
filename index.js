@@ -29,6 +29,7 @@ const app = new Vue({
       xhr.send();
     },
     chenge : function(){
+      window.scrollTo(0,0);
       if(this.mdlink === pass_char.anime){
         this.get_md_text(pass_char.before); 
       }else{
