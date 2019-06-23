@@ -1,11 +1,15 @@
 body {
   background: #c0cde9;
 }
-h1, h2, h3, th {
+h1, h2, h3, th, a.chenge {
   color: #44aeea;
 }
 li, a, td {
   color: #6490cd;
+}
+
+a {
+  text-decoration: underline;
 }
 
 th, td, table {
@@ -14,5 +18,5 @@ th, td, table {
 }
 
 .chenge {
-  size: 10px;
+  font-size: 15px;
 }
