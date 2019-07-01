@@ -37,6 +37,7 @@
 - [上野さんは不器用](https://ja.wikipedia.org/wiki/%E4%B8%8A%E9%87%8E%E3%81%95%E3%82%93%E3%81%AF%E4%B8%8D%E5%99%A8%E7%94%A8)
 - [私に天使が舞い降りた！](https://ja.wikipedia.org/wiki/%E7%A7%81%E3%81%AB%E5%A4%A9%E4%BD%BF%E3%81%8C%E8%88%9E%E3%81%84%E9%99%8D%E3%82%8A%E3%81%9F!)
 - [ぼくたちは勉強ができない](https://ja.wikipedia.org/wiki/%E3%81%BC%E3%81%8F%E3%81%9F%E3%81%A1%E3%81%AF%E5%8B%89%E5%BC%B7%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84)
+- [ガヴリールドロップアウト](https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%B4%E3%83%AA%E3%83%BC%E3%83%AB%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%E3%82%A2%E3%82%A6%E3%83%88)
 
 
 ---
