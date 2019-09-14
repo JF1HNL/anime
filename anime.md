@@ -40,6 +40,7 @@
 - [ひとりぼっちの○○生活](https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%BC%E3%81%A3%E3%81%A1%E3%81%AE%E2%97%8B%E2%97%8B%E7%94%9F%E6%B4%BB)
 - [のんのんびより](https://ja.wikipedia.org/wiki/%E3%81%AE%E3%82%93%E3%81%AE%E3%82%93%E3%81%B3%E3%82%88%E3%82%8A)
 - [はたらく細胞](https://ja.wikipedia.org/wiki/%E3%81%AF%E3%81%9F%E3%82%89%E3%81%8F%E7%B4%B0%E8%83%9E)
+- [ゾンビランドサガ](https://ja.wikipedia.org/wiki/%E3%82%BE%E3%83%B3%E3%83%93%E3%83%A9%E3%83%B3%E3%83%89%E3%82%B5%E3%82%AC)
 
 ---
 
