@@ -44,6 +44,8 @@
 - [ブレンド・S](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E3%83%BBS)
 - [スロウスタート](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AD%E3%82%A6%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88)
 - [NEW GAME!!](https://ja.wikipedia.org/wiki/NEW_GAME!)
+- [まちカドまぞく](https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%A1%E3%82%AB%E3%83%89%E3%81%BE%E3%81%9E%E3%81%8F)
+
 ---
 
 - [ソードアート・オンライン アリシゼーション]()
