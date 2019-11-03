@@ -45,6 +45,7 @@
 - [スロウスタート](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AD%E3%82%A6%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88)
 - [NEW GAME!!](https://ja.wikipedia.org/wiki/NEW_GAME!)
 - [まちカドまぞく](https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%A1%E3%82%AB%E3%83%89%E3%81%BE%E3%81%9E%E3%81%8F)
+- [女子高生の無駄遣い](https://ja.wikipedia.org/wiki/%E5%A5%B3%E5%AD%90%E9%AB%98%E7%94%9F%E3%81%AE%E7%84%A1%E9%A7%84%E3%81%A5%E3%81%8B%E3%81%84)
 
 ---
 
