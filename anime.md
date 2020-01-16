@@ -47,6 +47,7 @@
 - [まちカドまぞく](https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%A1%E3%82%AB%E3%83%89%E3%81%BE%E3%81%9E%E3%81%8F)
 - [女子高生の無駄遣い](https://ja.wikipedia.org/wiki/%E5%A5%B3%E5%AD%90%E9%AB%98%E7%94%9F%E3%81%AE%E7%84%A1%E9%A7%84%E3%81%A5%E3%81%8B%E3%81%84)
 - [クズの本懐](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%BA%E3%81%AE%E6%9C%AC%E6%87%90)
+- [鬼滅の刃](https://ja.wikipedia.org/wiki/%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83)
 
 ---
 
