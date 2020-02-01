@@ -48,6 +48,7 @@
 - [女子高生の無駄遣い](https://ja.wikipedia.org/wiki/%E5%A5%B3%E5%AD%90%E9%AB%98%E7%94%9F%E3%81%AE%E7%84%A1%E9%A7%84%E3%81%A5%E3%81%8B%E3%81%84)
 - [クズの本懐](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%BA%E3%81%AE%E6%9C%AC%E6%87%90)
 - [鬼滅の刃](https://ja.wikipedia.org/wiki/%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83)
+- [かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜](https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%90%E3%82%84%E6%A7%98%E3%81%AF%E5%91%8A%E3%82%89%E3%81%9B%E3%81%9F%E3%81%84%E3%80%9C%E5%A4%A9%E6%89%8D%E3%81%9F%E3%81%A1%E3%81%AE%E6%81%8B%E6%84%9B%E9%A0%AD%E8%84%B3%E6%88%A6%E3%80%9C)
 
 ---
 
