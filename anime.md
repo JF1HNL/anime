@@ -50,6 +50,7 @@
 - [鬼滅の刃](https://ja.wikipedia.org/wiki/%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83)
 - [かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜](https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%90%E3%82%84%E6%A7%98%E3%81%AF%E5%91%8A%E3%82%89%E3%81%9B%E3%81%9F%E3%81%84%E3%80%9C%E5%A4%A9%E6%89%8D%E3%81%9F%E3%81%A1%E3%81%AE%E6%81%8B%E6%84%9B%E9%A0%AD%E8%84%B3%E6%88%A6%E3%80%9C)
 - [へやキャン△](https://ja.wikipedia.org/wiki/%E3%82%86%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3%E2%96%B3#%E7%95%AA%E5%A4%96%E7%B7%A8%E3%80%8C%E3%81%B8%E3%82%84%E3%82%AD%E3%83%A3%E3%83%B3%E2%96%B3%E3%80%8D)
+- [恋する小惑星](https://ja.wikipedia.org/wiki/%E6%81%8B%E3%81%99%E3%82%8B%E5%B0%8F%E6%83%91%E6%98%9F)
 
 # 見た映画
 - [ペンギンハイウェイ](https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%83%BB%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4)
