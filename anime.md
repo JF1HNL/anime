@@ -53,6 +53,7 @@
 - [恋する小惑星](https://ja.wikipedia.org/wiki/%E6%81%8B%E3%81%99%E3%82%8B%E5%B0%8F%E6%83%91%E6%98%9F)
 - [凪のあすから](https://ja.wikipedia.org/wiki/%E5%87%AA%E3%81%AE%E3%81%82%E3%81%99%E3%81%8B%E3%82%89)
 - [生徒会役員共](https://ja.wikipedia.org/wiki/%E7%94%9F%E5%BE%92%E4%BC%9A%E5%BD%B9%E5%93%A1%E5%85%B1)
+- [けいおん！](https://ja.wikipedia.org/wiki/%E3%81%91%E3%81%84%E3%81%8A%E3%82%93!)
 
 # 見た映画
 - [ペンギンハイウェイ](https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%83%BB%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4)
