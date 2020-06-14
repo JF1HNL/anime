@@ -54,6 +54,7 @@
 - [凪のあすから](https://ja.wikipedia.org/wiki/%E5%87%AA%E3%81%AE%E3%81%82%E3%81%99%E3%81%8B%E3%82%89)
 - [生徒会役員共](https://ja.wikipedia.org/wiki/%E7%94%9F%E5%BE%92%E4%BC%9A%E5%BD%B9%E5%93%A1%E5%85%B1)
 - [けいおん！](https://ja.wikipedia.org/wiki/%E3%81%91%E3%81%84%E3%81%8A%E3%82%93!)
+- [花咲くいろは](https://ja.wikipedia.org/wiki/%E8%8A%B1%E5%92%B2%E3%81%8F%E3%81%84%E3%82%8D%E3%81%AF)
 
 # 見た映画
 - [ペンギンハイウェイ](https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%83%BB%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4)
@@ -64,9 +65,6 @@
 - [銀魂](https://ja.wikipedia.org/wiki/%E9%8A%80%E9%AD%82_(%E3%82%A2%E3%83%8B%E3%83%A1))
 - [Re:ゼロから始める異世界生活](https://ja.wikipedia.org/wiki/Re:%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E5%A7%8B%E3%82%81%E3%82%8B%E7%95%B0%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB)
 >15話までみた
-
-### 見なかったアニメ
-- 花咲くいろは
 
 ## 以前
 ### 2015冬
