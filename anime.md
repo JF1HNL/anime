@@ -55,6 +55,7 @@
 - [生徒会役員共](https://ja.wikipedia.org/wiki/%E7%94%9F%E5%BE%92%E4%BC%9A%E5%BD%B9%E5%93%A1%E5%85%B1)
 - [けいおん！](https://ja.wikipedia.org/wiki/%E3%81%91%E3%81%84%E3%81%8A%E3%82%93!)
 - [花咲くいろは](https://ja.wikipedia.org/wiki/%E8%8A%B1%E5%92%B2%E3%81%8F%E3%81%84%E3%82%8D%E3%81%AF)
+- [となりの吸血鬼さん](https://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%AE%E5%90%B8%E8%A1%80%E9%AC%BC%E3%81%95%E3%82%93)
 
 # 見た映画
 - [ペンギンハイウェイ](https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%83%BB%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4)
