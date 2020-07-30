@@ -60,6 +60,7 @@
 - [甘城ブリリアントパーク](https://ja.wikipedia.org/wiki/%E7%94%98%E5%9F%8E%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%88%E3%83%91%E3%83%BC%E3%82%AF)
 - [この素晴らしい世界に祝福を!](https://ja.wikipedia.org/wiki/%E3%81%93%E3%81%AE%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%84%E4%B8%96%E7%95%8C%E3%81%AB%E7%A5%9D%E7%A6%8F%E3%82%92!)
 - [Angel Beats!](https://ja.wikipedia.org/wiki/Angel_Beats!)
+- [かくしごと](https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%8F%E3%81%97%E3%81%94%E3%81%A8)
 
 # 見た映画
 - [ペンギンハイウェイ](https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%83%BB%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4)
