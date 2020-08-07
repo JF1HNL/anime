@@ -62,6 +62,7 @@
 - [Angel Beats!](https://ja.wikipedia.org/wiki/Angel_Beats!)
 - [かくしごと](https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%8F%E3%81%97%E3%81%94%E3%81%A8)
 - [Charlotte](https://ja.wikipedia.org/wiki/Charlotte_(%E3%82%A2%E3%83%8B%E3%83%A1))
+- [三ツ星カラーズ](https://ja.wikipedia.org/wiki/%E4%B8%89%E3%83%84%E6%98%9F%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%BA)
 
 # 見た映画
 - [ペンギンハイウェイ](https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%83%BB%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4)
