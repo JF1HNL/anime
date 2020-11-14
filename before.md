@@ -53,3 +53,4 @@
 |SHIROBAKO|5週目|-
 |Angel Beats!|1週目|-
 |ひとりぼっちの○○生活|2周目|-
+|NEW GAME!|5週目|-
