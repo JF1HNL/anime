@@ -66,6 +66,7 @@
 - [かぐや様は告らせたい？〜天才たちの恋愛頭脳戦〜](https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%90%E3%82%84%E6%A7%98%E3%81%AF%E5%91%8A%E3%82%89%E3%81%9B%E3%81%9F%E3%81%84%E3%80%9C%E5%A4%A9%E6%89%8D%E3%81%9F%E3%81%A1%E3%81%AE%E6%81%8B%E6%84%9B%E9%A0%AD%E8%84%B3%E6%88%A6%E3%80%9C)
 - [桜Trick](https://ja.wikipedia.org/wiki/%E6%A1%9CTrick)
 - [天晴爛漫!](https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%99%B4%E7%88%9B%E6%BC%AB!)
+- [きんいろモザイク](https://ja.wikipedia.org/wiki/%E3%81%8D%E3%82%93%E3%81%84%E3%82%8D%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF)
 
 # 見た映画
 - [ペンギンハイウェイ](https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%83%BB%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4)
