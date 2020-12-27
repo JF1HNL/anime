@@ -67,6 +67,7 @@
 - [桜Trick](https://ja.wikipedia.org/wiki/%E6%A1%9CTrick)
 - [天晴爛漫!](https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%99%B4%E7%88%9B%E6%BC%AB!)
 - [きんいろモザイク](https://ja.wikipedia.org/wiki/%E3%81%8D%E3%82%93%E3%81%84%E3%82%8D%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF)
+- [神様になった日](https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%A7%98%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E6%97%A5)
 
 # 見た映画
 - [ペンギンハイウェイ](https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%83%BB%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4)
