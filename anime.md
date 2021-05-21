@@ -74,6 +74,7 @@
 - [ゆるキャン△ SEASON２](https://ja.wikipedia.org/wiki/%E3%82%86%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3%E2%96%B3)
 - [のんのんびより のんすとっぷ](https://ja.wikipedia.org/wiki/%E3%81%AE%E3%82%93%E3%81%AE%E3%82%93%E3%81%B3%E3%82%88%E3%82%8A)
 - [安達としまむら](https://ja.wikipedia.org/wiki/%E5%AE%89%E9%81%94%E3%81%A8%E3%81%97%E3%81%BE%E3%82%80%E3%82%89)
+- [true tears](https://ja.wikipedia.org/wiki/True_tears_(%E3%82%A2%E3%83%8B%E3%83%A1))
 
 # 見た映画
 - [ペンギンハイウェイ](https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%83%BB%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4)
