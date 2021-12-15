@@ -76,6 +76,7 @@
 - [安達としまむら](https://ja.wikipedia.org/wiki/%E5%AE%89%E9%81%94%E3%81%A8%E3%81%97%E3%81%BE%E3%82%80%E3%82%89)
 - [true tears](https://ja.wikipedia.org/wiki/True_tears_(%E3%82%A2%E3%83%8B%E3%83%A1))
 - [スーパーカブ](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%96_(%E5%B0%8F%E8%AA%AC))
+- [ラブライブ!スーパースター!!](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%96%E3%83%A9%E3%82%A4%E3%83%96!%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC!!)
 
 # 見た映画
 - [ペンギンハイウェイ](https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%83%BB%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4)
